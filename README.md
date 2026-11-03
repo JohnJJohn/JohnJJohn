@@ -9,3 +9,4 @@
 - I do NOT check for merge conflicts
 - I DO merge without looking
 - I AM the big boss
+<img width="128" height="170" alt="GooperDectecive" src="https://github.com/user-attachments/assets/6d76d7e8-c309-4069-87a6-b3769eb07744" />
